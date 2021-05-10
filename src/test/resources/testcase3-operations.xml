@@ -1,0 +1,7 @@
+<operations>
+  <operation name="maleTotalPopulation" type="sub" func="sum" attrib="males" filter=".*"/>
+  <operation name="femaleTotalPopulation" type="sub" func="sum" attrib="females" filter=".*"/>
+  <operation name="maleAveragePopulation" type="sub" func="average" attrib="males" filter=".*"/>
+  <operation name="femaleAveragePopulation" type="sub" func="average" attrib="females" filter=".*"/>
+  <operation name="notMatchingAny" type="sub" func="average" attrib="females" filter="Z.*"/>
+</operations>

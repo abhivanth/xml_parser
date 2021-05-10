@@ -1,0 +1,15 @@
+<data>
+    <city name="Stuttgart">
+        <males>5000</males>
+        <females>4000</females>
+    </city>
+    <city name="Moskau">
+        <males>2000</males>
+        <females>1000</females>
+    </city>
+    <city name="Washington DC">
+        <males>2000</males>
+        <females>4000</females>
+    </city>
+
+</data>

@@ -1,0 +1,6 @@
+<operations>
+  <operation name="maleTotalPopulation" type="attrib" func="sum" attrib="males" filter=".*"/>
+  <operation name="femaleTotalPopulation" type="attrib" func="sum" attrib="females" filter=".*"/>
+  <operation name="maleAveragePopulation" type="attrib" func="average" attrib="males" filter=".*"/>
+  <operation name="femaleAveragePopulation" type="attrib" func="average" attrib="females" filter=".*"/>
+</operations>
